@@ -9,6 +9,7 @@ npm run dev
 
 Then frontend in another terminal :
 
+cd frontend
 npm install
 npm run serve
 
