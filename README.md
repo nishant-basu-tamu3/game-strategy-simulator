@@ -1,11 +1,11 @@
 
-First run backend :
+First run backend in a seperate terminal:
 
 cd backend
 npm run dev
 
 
-Then frontend
+Then frontend in another terminal :
 
 npm run serve
 
