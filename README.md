@@ -1,3 +1,4 @@
+Clone the repo
 
 First run backend in a seperate terminal:
 
