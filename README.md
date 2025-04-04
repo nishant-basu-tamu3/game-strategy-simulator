@@ -1,11 +1,15 @@
+Clone the repo
 
-First run backend :
+First run backend in a seperate terminal:
 
 cd backend
+npm install
 npm run dev
 
 
-Then frontend
+Then frontend in another terminal :
 
+cd frontend
+npm install
 npm run serve
 
